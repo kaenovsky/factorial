@@ -1,0 +1,13 @@
+1) Descargar la carpeta a tu compu. Todos los archivos tienen que estar en la misma carpeta.
+
+2) Entrar a la carpeta Factorial.
+
+3) Arrastrar el archivo factorial.html hasta un navegador (firefox, chrome, etc.)
+
+4) Listo! Debería funcionar :D (tenés que tener internet para ver algunas cosas como los estilos de boostrap porque son llamados de un CDN -eso lo podés ver en las primeras líneas del html, donde se llaman los recursos-.
+
+- - - - - - - - - - - - 
+
+Para ver el código de fuente de cada archivo necesitás un editor de texto como Dreamweaver. El que yo uso es Sublime Text (sublimetext.com), es gratis, open source, multiplataforma  y tiene muchas funcionalidades para editar el código.
+
+
