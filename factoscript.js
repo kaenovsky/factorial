@@ -12,6 +12,7 @@ function esFactorial(num){
 
 	 } else { 
 
+	 	console.log("Numero: " + num);
 	 	return num * (esFactorial(num -1));		
 	 }
  }
