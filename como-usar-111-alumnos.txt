@@ -1,4 +1,5 @@
-1) Descargar la carpeta a tu compu. Todos los archivos tienen que estar en la misma carpeta.
+Intrucciones para alumnes de 111mil
+1) Descargar el proyecto a tu compu. Todos los archivos tienen que estar en la misma carpeta.
 
 2) Entrar a la carpeta Factorial.
 
@@ -8,6 +9,6 @@
 
 - - - - - - - - - - - - 
 
-Para ver el código de fuente de cada archivo necesitás un editor de texto como Dreamweaver. El que yo uso es Sublime Text (sublimetext.com), es gratis, open source, multiplataforma  y tiene muchas funcionalidades para editar el código.
+Para ver el código de fuente de cada archivo necesitás un editor de texto como Atom, que es gratis, open source, multiplataforma  y tiene muchas funcionalidades para editar el código.
 
 
